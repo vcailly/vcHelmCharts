@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   postgres:
   - apiVersion: v1
-    created: 2019-10-16T12:51:51.545260039Z
+    created: 2019-10-17T12:58:48.669551072Z
     description: postgres server
     digest: 385647d025c816e4d784932c21a7d89f6d897f19acdc6cdb717e077f1de49cbf
     icon: http://192.168.27.100:88/icons/postgres.png
@@ -12,7 +12,7 @@ entries:
     version: 1.0.0
   tomcat:
   - apiVersion: v1
-    created: 2019-10-16T12:51:51.546521261Z
+    created: 2019-10-17T12:58:48.669986887Z
     description: tomcat server with vault
     digest: 27b7679d6f16eb31be139e81c5c7ad5020b25ba2b4185e60bf41e486c7189988
     icon: http://apache-apache-demo.192.168.137.152.nip.io/icons/tomcat.png
@@ -20,4 +20,4 @@ entries:
     urls:
     - tomcat-1.0.0.tgz
     version: 1.0.0
-generated: 2019-10-16T12:51:51.544319028Z
+generated: 2019-10-17T12:58:48.668897615Z
